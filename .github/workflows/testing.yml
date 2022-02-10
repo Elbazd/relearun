@@ -28,4 +28,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Test de la version de php
-        run: pvp -v
+        run: php -v
